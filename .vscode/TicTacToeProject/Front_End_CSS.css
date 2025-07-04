@@ -1,0 +1,10 @@
+/*CSS Side of Front End Tic Tac Toe Game*/
+body {
+    background-color: lightsalmon;
+}
+h1{
+    color: red;
+}
+p{
+    color: blue;
+}
