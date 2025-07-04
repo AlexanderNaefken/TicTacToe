@@ -14,4 +14,12 @@
     color: #f0f0f0;
     text-align: center;
     display: inline-block;
+    align-self: center;
+}
+.Gamebackground{
+    background-color: black;
+    margin: auto;
+    padding-top: 30%;
+    width: 10%;
+    height: 10%;
 }
